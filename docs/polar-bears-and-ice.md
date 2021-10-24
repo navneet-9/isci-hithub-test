@@ -21,6 +21,8 @@ Initially, the purpose of this article appears to be to inform the general publi
 
 
 **Works Cited**
+
+
 Amstrup, S.C., Marcot, B.G. and Douglas, D.C., 2007. Forecasting the Range-wide Status of Polar Bears at Selected Times in the 21st Century. *USGS Science Strategy to Support U.S. Fish and Wildlife Service Polar Bear Listing Decision, U. S. Department of the Interior.* p. 1-126. [online] Available at: <https://www.fs.usda.gov/treesearch/pubs/33235> [Accessed 4 Oct. 2021].
 
 Crockford, S., 2021. Still waiting for two thirds of polar bears worldwide to disappear due to lack of summer sea ice. *Polar Bear Science.* [blog] 15 September. Available at: <https://polarbearscience.com/2021/09/15/still-waiting-for-two-thirds-of-polar-bears-worldwide-to-disappear-due-to-lack-of-summer-sea-ice/> [Accessed 7 Oct. 2021].
