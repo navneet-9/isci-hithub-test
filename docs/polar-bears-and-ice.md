@@ -1,5 +1,5 @@
 
-# The Impact of Changing Sea Ice Levels on Polar Bears
+# The Impact of Decreasing Sea Ice on Polar Bears
 ## Evaluating an Article by Susan Crockford
 
   This article begins by discussing how regions with the most dramatic sea ice declines have not documented any reduced polar bear health or survival. However, scientists like Andrew Derocher have claimed that their predictions are coming true, which refers to a climate change paper he published in 1993 regarding the impacts of climatic warming on polar bears (Stirling and Derocher, 1993). In this paper, declining body conditions, reduced cub survival, and lowered reproductive rates were observed, but they could not determine if they were a result of climate change. This article states that these changes seen today cannot be attributed to climate change as they have occurred in the past, when there was no sea ice breakup. With more research, it becomes clear that the arctic sea ice extent has been decreasing since satellite-based measurements began in the 1970s, indicating that the observed changes may have been due to climate change (Lindsey, 2020). 
@@ -14,9 +14,9 @@
   <img width="615" height="600" src="http://2.bp.blogspot.com/-njDh8aQ_Rd4/T0A8FcYAr_I/AAAAAAAACG4/iZqA2r3abu8/s1600/3354453675-650.jpg">
 </p>
 
-  *Figure 1: This shows the predicted sea ice decline to the observed sea ice decline from 1950 to 2050 (Stroeve et al., 2007).*
+  *Figure 1: This shows the predicted sea ice decline to the observed sea ice decline in the Arctic from 1950 to 2050 (Stroeve et al., 2007).*
 
-Initially, the purpose of this article appears to be to inform the general public, but it later becomes clear that the purpose is to persuade the public that sea ice loss is not harmful to polar bears in any way. Various opinionated terms are used, such as “proclaimed”, “failed spectacularly”, “his chums”, and more (Crockford, 2021). The author should use balanced arguments while considering all evidence when informing the argument, unlike Crockford who subjectively presents information. Other studies have provided strong evidence, such as reduced sea-ice habitat, declining reproductive rates, and increased cannibalism, to demonstrate the impact of decreasing sea ice on polar bears (Molnár et al., 2010; Owen and Swaisgood, 2008). It is difficult to determine the exact impact of climate change on polar bears, numerous factors play a role such as changing food supply, human interactions, and different adaptation strategies in subpopulations so further studies would be useful. 
+Initially, the purpose of this article appears to be to inform the general public, but it later becomes clear that the purpose is to persuade the public that sea ice loss is not harmful to polar bears in any way. Various opinionated terms are used, such as “proclaimed”, “failed spectacularly”, “his chums”, and more (Crockford, 2021). The author should use balanced arguments while considering all evidence when informing the argument, unlike Crockford who subjectively presents information. Other studies have provided strong evidence, such as reduced sea-ice habitat, declining reproductive rates, and increased cannibalism to demonstrate the impact of decreasing sea ice on polar bears (Molnár et al., 2010; Owen and Swaisgood, 2008). It is difficult to determine the exact impact of climate change on polar bears, numerous factors play a role such as changing food supply, human interactions, and different adaptation strategies in subpopulations so further studies would be useful. 
 
 
 
@@ -35,7 +35,7 @@ Owen, M.A. and Swaisgood, R.R., 2008. On thin ice: Climate change and the future
 
 Peacock, E.L., Taylor, M.K., Laake, J.L. and Stirling, I., 2013. *Population ecology of polar bears in Davis Strait, Canada and Greenland. Journal of Wildlife Management,* [e-journal] 77(3) https://doi.org/10.1002/jwmg.489.
 
-Stirling, I. and Derocher, A.E., 1993. Possible Impacts of Climatic Warming on Polar Bears. *Arctic,* [e-journal] 46(3), pp.240–245. https://doi.org/10.14430/arctic1348
+Stirling, I. and Derocher, A.E., 1993. Possible Impacts of Climatic Warming on Polar Bears. *Arctic,* [e-journal] 46(3), pp.240–245. https://doi.org/10.14430/arctic1348.
 
 Stirling, I. and Derocher, A.E., 2012. Effects of climate warming on polar bears: a review of the evidence. *Global Change Biology,* [e-journal] 18(9), pp.2694–2706. https://doi.org/10.1111/j.1365-2486.2012.02753.x.
 
