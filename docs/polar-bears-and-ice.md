@@ -1,8 +1,4 @@
----
-title: Predicted Changes to Polar Bears due to Changing Sea Ice Levels
-layout: default
-nav_order: 1
----
+
 # The Impact of Changing Sea Ice Levels on Polar Bears
 ## Evaluating an Article by Susan Crockford
 
@@ -25,22 +21,22 @@ Initially, the purpose of this article appears to be to inform the general publi
 
 
 **Works Cited**
-Amstrup, S.C., Marcot, B.G. and Douglas, D.C., 2007. Forecasting the Range-wide Status of Polar Bears at Selected Times in the 21st Century. In: USGS Science Strategy to Support U.S. Fish and Wildlife Service Polar Bear Listing Decision, U. S. Department of the Interior. p. 1-126. [online] Available at: <https://www.fs.usda.gov/treesearch/pubs/33235> [Accessed 4 Oct. 2021].
+Amstrup, S.C., Marcot, B.G. and Douglas, D.C., 2007. Forecasting the Range-wide Status of Polar Bears at Selected Times in the 21st Century. *USGS Science Strategy to Support U.S. Fish and Wildlife Service Polar Bear Listing Decision, U. S. Department of the Interior.* p. 1-126. [online] Available at: <https://www.fs.usda.gov/treesearch/pubs/33235> [Accessed 4 Oct. 2021].
 
-Crockford, S., 2021. Still waiting for two thirds of polar bears worldwide to disappear due to lack of summer sea ice. Polar Bear Science. [blog] 15 September. Available at: <https://polarbearscience.com/2021/09/15/still-waiting-for-two-thirds-of-polar-bears-worldwide-to-disappear-due-to-lack-of-summer-sea-ice/> [Accessed 7 Oct. 2021].
+Crockford, S., 2021. Still waiting for two thirds of polar bears worldwide to disappear due to lack of summer sea ice. *Polar Bear Science.* [blog] 15 September. Available at: <https://polarbearscience.com/2021/09/15/still-waiting-for-two-thirds-of-polar-bears-worldwide-to-disappear-due-to-lack-of-summer-sea-ice/> [Accessed 7 Oct. 2021].
 
-Gosselin, P., 2021. South Pole Sees Record Cold Winter, Smashing 1976 Record …WaPo Admits “Chill Was Exceptional”. NoTricksZone. [blog] 3 October. Available at: <https://notrickszone.com/2021/10/03/south-pole-sees-record-cold-winter-smashing-1976-record-wapo-admits-chill-was-exceptional/> [Accessed 7 Oct. 2021].
+Gosselin, P., 2021. South Pole Sees Record Cold Winter, Smashing 1976 Record …WaPo Admits “Chill Was Exceptional”. *NoTricksZone.* [blog] 3 October. Available at: <https://notrickszone.com/2021/10/03/south-pole-sees-record-cold-winter-smashing-1976-record-wapo-admits-chill-was-exceptional/> [Accessed 7 Oct. 2021].
 
-Lindsey, R., 2020. Climate Change: Arctic sea ice summer minimum. [online] Available at: <https://www.climate.gov/news-features/understanding-climate/climate-change-arctic-sea-ice-summer-minimum> [Accessed 7 Oct. 2021].
+Lindsey, R., 2020. Climate Change: *Arctic sea ice summer minimum.* [online] Available at: <https://www.climate.gov/news-features/understanding-climate/climate-change-arctic-sea-ice-summer-minimum> [Accessed 7 Oct. 2021].
 
-Molnár, P.K., Derocher, A.E., Thiemann, G.W. and Lewis, M.A., 2010. Predicting survival, reproduction and abundance of polar bears under climate change. Biological Conservation, [e-journal] 143(7), pp.1612–1622. https://doi.org/10.1016/j.biocon.2010.04.004.
+Molnár, P.K., Derocher, A.E., Thiemann, G.W. and Lewis, M.A., 2010. Predicting survival, reproduction and abundance of polar bears under climate change. *Biological Conservation,* [e-journal] 143(7), pp.1612–1622. https://doi.org/10.1016/j.biocon.2010.04.004.
 
-Owen, M.A. and Swaisgood, R.R., 2008. On thin ice: Climate change and the future of Polar Bears. Biodiversity, [e-journal] 9(3–4), pp.143–148. https://doi.org/10.1080/14888386.2008.9712921.
+Owen, M.A. and Swaisgood, R.R., 2008. On thin ice: Climate change and the future of Polar Bears. *Biodiversity,* [e-journal] 9(3–4), pp.143–148. https://doi.org/10.1080/14888386.2008.9712921.
 
-Peacock, E.L., Taylor, M.K., Laake, J.L. and Stirling, I., 2013. Population ecology of polar bears in Davis Strait, Canada and Greenland. Journal of Wildlife Management, [e-journal] 77(3) https://doi.org/10.1002/jwmg.489.
+Peacock, E.L., Taylor, M.K., Laake, J.L. and Stirling, I., 2013. *Population ecology of polar bears in Davis Strait, Canada and Greenland. Journal of Wildlife Management,* [e-journal] 77(3) https://doi.org/10.1002/jwmg.489.
 
-Stirling, I. and Derocher, A.E., 1993. Possible Impacts of Climatic Warming on Polar Bears. Arctic, [e-journal] 46(3), pp.240–245. https://doi.org/10.14430/arctic1348
+Stirling, I. and Derocher, A.E., 1993. Possible Impacts of Climatic Warming on Polar Bears. *Arctic,* [e-journal] 46(3), pp.240–245. https://doi.org/10.14430/arctic1348
 
-Stirling, I. and Derocher, A.E., 2012. Effects of climate warming on polar bears: a review of the evidence. Global Change Biology, [e-journal] 18(9), pp.2694–2706. https://doi.org/10.1111/j.1365-2486.2012.02753.x.
+Stirling, I. and Derocher, A.E., 2012. Effects of climate warming on polar bears: a review of the evidence. *Global Change Biology,* [e-journal] 18(9), pp.2694–2706. https://doi.org/10.1111/j.1365-2486.2012.02753.x.
 
-Stroeve, J., Holland, M.M., Meier, W., Scambos, T. and Serreze, M., 2007. Arctic sea ice decline: Faster than forecast. Geophysical Research Letters, [e-journal] 34(9). https://doi.org/10.1029/2007GL029703.
+Stroeve, J., Holland, M.M., Meier, W., Scambos, T. and Serreze, M., 2007. Arctic sea ice decline: Faster than forecast. *Geophysical Research Letters,* [e-journal] 34(9). https://doi.org/10.1029/2007GL029703.
